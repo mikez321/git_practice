@@ -1,4 +1,5 @@
 Again, since I'm on a new branch this will be uploaded to the branch, but the master branch will remain untouched.  The master
 branch won't even have this file!  Wild!
 
-The other cool thing is that you can revert to previous copies.
+I just deleted the previous line and overwrote it.  But no biggie, I can always go back to that version because Git is a VCS
+and my previous commit is saved!  Forever.... Forever..... Forever.... Forever......
