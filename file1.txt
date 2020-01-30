@@ -1,3 +1,7 @@
 This is a file!
 
 It is a text file, but could be any kind of file....
+
+At this point, I've created a new branch and am not working on the master anymore.  You wold do this if you wanted
+to make a change to a repo, but not mess with the "working" (hopefully) code.  Branching also will allow you to work
+collaboratively so multiple people can make changes to a single document and then combine their work.
